@@ -1,0 +1,10 @@
+{
+  "name": "[RK] Bot",
+  "version": "1.0.0",
+  "description": "RK's Discord bot",
+  "main": "bot.js",
+  "author": "Eusebio",
+  "dependencies": {
+    "discord.js": "^11.1.0"
+  }
+}
